@@ -81,4 +81,3 @@ python Main.py
 - Atualize o caminho `download_path` no script conforme necessário.
 - Certifique-se de não incluir chaves de API sensíveis no repositório público.
 
-Isso deve fornecer uma boa base para o README do seu projeto, descrevendo seu propósito, instalação, uso e estrutura. Se precisar de mais ajuda, estou à disposição!
